@@ -36,7 +36,7 @@ public class User {
         return lastName;
     }
 
-    public void setLastName(String lastName) {
+    public void setLastNameSQL(String lastName) {
         this.lastName = lastName;
     }
 }
